@@ -10,9 +10,9 @@ Overview
 + Connect the repo to the CI services travis-ci.com, appveyor.com, circleci.com, dev.azure.com
   (For travis-ci.com, configure your org or user to enable the service for all repos)
 
-[![tests](https://github.com/conda-forge/conda-smithy/workflows/tests/badge.svg)](https://github.com/conda-forge/conda-smithy/actions?query=workflow%3Atests)
+[![tests](https://github.com/Unity-Billal-mesloub/conda-smithy/workflows/tests/badge.svg)](https://github.com/Unity-Billal-mesloub/conda-smithy/actions?query=workflow%3Atests)
 [![Coverage Status](https://coveralls.io/repos/github/conda-forge/conda-smithy/badge.svg?branch=main)](https://coveralls.io/github/conda-forge/conda-smithy?branch=main)
-[![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
+[![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/Unity-Billal-mesloub/ruff)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
 
 Installation
